@@ -164,9 +164,7 @@ nav a{
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
 }
 
-/*--contct button--*/
 
-/* contact-adress */
 .contact-add-head h3 {
     font-size:  24px;
     color:  #3c4258;
@@ -178,9 +176,7 @@ nav a{
     font-weight:  300;
     margin-top:  6px;
 }
-/* contact-adress */
 
-/*.contact-add-info */
 .contact-add-info { margin: 42px 0 52px;}
 .single-contact-add-info h3 {
     color:  #636a82;
@@ -194,9 +190,7 @@ nav a{
 .single-contact-add-info {
     margin-bottom:  26px;
 }
-/*.contact-add-info */
 
-/*hm-foot-icon*/
 .hm-foot-icon ul li{float:left;}
 .hm-foot-icon ul li>a {
     color: #636a82;
@@ -209,7 +203,7 @@ nav a{
 }
 .hm-foot-icon ul li>a:hover{
     color: #5d5c5d;
-}/*hm-foot-icon*/
+}
 
 .hm-footer-copyright p{
     color: #888ea5;
